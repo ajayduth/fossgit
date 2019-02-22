@@ -1,5 +1,9 @@
 #include <iostream.h>
 
-void main(){
+void hello(){
   cout<<"Hello World";
+}
+
+void main(){
+  hello();
 }
